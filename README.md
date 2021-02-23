@@ -1,6 +1,6 @@
 # Sudoku Solver Python
  - A very basic Sudoku Solver 😄.
- - Written in python keeping in mind the amount of people use it <img width="30px" src = "https://www.pinclipart.com/picdir/middle/269-2691398_python-logo-clipart-transparent-background-png-download.png"/>.
+ - Written in python keeping in mind the amount of people use it <img width="20px" src = "https://www.pinclipart.com/picdir/middle/269-2691398_python-logo-clipart-transparent-background-png-download.png"/>.
  - Properly Documented <img width="20px" src="https://webstockreview.net/images/document-clipart-essay.png"/>
 
 Open [Main.py][main] follow the instructions and see your Sudoku getting solved in front of you eyes. This program uses the backtracking algorithm to solve sudokus. I know the algorithm is a bit slow, but considering the two day time-frame I had to develop this project, it felt like the best choice.
